@@ -1,0 +1,4 @@
+C:\Users\atta3\Desktop\Project\Project_Chatting\x64\Release\Project_Chatting.exe
+C:\Users\atta3\Desktop\Project\Project_Chatting\x64\Release\Project_Chatting.vcxproj.CopyComplete
+C:\Users\atta3\Desktop\Project\Project_Chatting\x64\Release\libcurl.dll
+C:\Users\atta3\Desktop\Project\Project_Chatting\x64\Release\zlib1.dll
